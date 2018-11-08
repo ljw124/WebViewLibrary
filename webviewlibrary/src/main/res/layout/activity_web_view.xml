@@ -23,7 +23,6 @@
             android:layout_height="?attr/actionBarSize"
             android:background="@color/colorPrimary"
             app:contentInsetStartWithNavigation="0dp"
-            app:layout_scrollFlags="scroll"
             app:navigationContentDescription="返回"
             app:navigationIcon="@drawable/icon_back"
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
